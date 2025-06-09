@@ -122,7 +122,6 @@
       <h2>Produto 3</h2>
       <p>Solução inovadora e prática. Confira agora!</p>
       <button onclick="comprar('Produto 3')">Comprar</button>
-    </div>
   </div>
   </div>
 
